@@ -1886,7 +1886,7 @@
       </trans-unit>
       <trans-unit id="471">
         <source>Leave</source>
-        <target>Licencias y Permisos</target>
+        <target>Licencias</target>
       </trans-unit>
       <trans-unit id="472">
         <source>Leave Balance (Days)</source>
@@ -2338,7 +2338,7 @@
       </trans-unit>
       <trans-unit id="584">
         <source>My Leave</source>
-        <target>Mis Permisos</target>
+        <target>Mis Licencias</target>
       </trans-unit>
       <trans-unit id="585">
         <source>My Records</source>
@@ -2770,11 +2770,11 @@
       </trans-unit>
       <trans-unit id="692">
         <source>PIM</source>
-        <target>Módulo de Información Personal</target>
+        <target>Empleados</target>
       </trans-unit>
       <trans-unit id="693">
         <source>PIM Sample Report</source>
-        <target>Ejemplo de Reporte del Módulo de Información Personal</target>
+        <target>Ejemplo de Reporte de Empleados</target>
       </trans-unit>
       <trans-unit id="694">
         <source>Pitcairn</source>
@@ -4558,7 +4558,7 @@
       </trans-unit>
       <trans-unit id="1139">
         <source>My Entitlements</source>
-        <target>Mis derechos</target>
+        <target>Historial de asignaciones</target>
       </trans-unit>
       <trans-unit id="1140">
         <source>Should be a number with upto %count% decimal places</source>
