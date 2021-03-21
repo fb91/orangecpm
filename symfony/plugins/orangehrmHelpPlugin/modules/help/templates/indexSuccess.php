@@ -22,7 +22,7 @@ use_stylesheet(plugin_web_path('orangehrmHelpPlugin', 'css/indexSuccess'));
 
 <div class="box">
     <div class="head">
-        <h1><?php echo __('Help & Support'); ?></h1>
+        <h1>Ayuda</h1>
     </div>
     <div class="inner">
         <div class="inner help-inner-row">
@@ -30,107 +30,35 @@ use_stylesheet(plugin_web_path('orangehrmHelpPlugin', 'css/indexSuccess'));
                 <div class="help-column help-header-icon">
                     <i class="fas fa-lg fa-mobile-alt help-header-icon"></i>
                 </div>
-                <h2><?php echo __('OrangeHRM Open Source Mobile App - How to Download the Application'); ?></h2>
+                <h2>¿Cómo ver las vacaciones que tengo disponibles?</h2>
             </div>
             <div class="box">
-                <p><?php echo __(
-                        'OrangeHRM Open Source mobile application allows you to apply leave, assign leave and approve leave via a mobile device. This application is available for download on both iOS and Android platforms.'
-                    ); ?></p>
-                <br>
-                <p><?php echo __(
-                        'To install and get started.'
-                    ); ?></p>
-                <br>
-                <p><?php echo __(
-                        'Download and install the application from the App Store or Play Store.'
-                    ); ?>
-                </p>
-                <br>
-                <p><?php echo __(
-                        'The following links direct you to find the app in the Play Store / App Store.'
-                    ); ?></p>
-                <p>
-                <div class="help-column">
-                    <a target="_blank"
-                       href='https://play.google.com/store/apps/details?id=com.orangehrm.opensource'>
-                        <img class="play-store-img" alt='Get it on Google Play'
-                             src='<?php echo theme_path('images/play_store_en_US.png') ?>'/>
-                    </a>
-                </div>
-                <div class="help-column">
-                    <a target="_blank" href='https://apps.apple.com/us/app/orangehrm/id1527247547'>
-                        <img class="app-store-img" alt='Download on the App Store'
-                             src='<?php echo theme_path('images/app_store_en_US.svg') ?>'/>
-                    </a>
-                </div>
-                </p>
-                <p><?php echo __(
-                        'You may alternatively scan for the following QR code from your mobile phone camera to find and download the application.'
-                    ); ?></p>
-                <br>
-                <p>
-                    <img alt='Mobile app QR code'
-                         src='<?php echo theme_path('images/mobile_app_qr.png') ?>'/>
-                </p>
-                <br>
-                <p><?php echo __(
-                        'Once the installation is complete, open the application and follow the steps outlined below to access your OrangeHRM system.'
-                    ); ?></p>
+                <p>Texto/imagen/video explicativo...</p>
+                <p>Pellentesque ipsum velit, tincidunt sit amet purus lacinia, molestie elementum nisl. Nullam accumsan hendrerit mattis. Mauris auctor at quam quis porttitor. Curabitur vitae lectus a metus aliquet gravida sit amet ut dui. Morbi et nulla sem. Suspendisse sagittis odio odio, non gravida eros iaculis ac. Fusce quis imperdiet quam. Integer venenatis tellus in pretium finibus. Vivamus ac auctor nisi. Mauris luctus magna nulla, at pulvinar arcu suscipit malesuada.</p>
+                <p>Duis a volutpat tortor. Proin ac blandit diam. Suspendisse vehicula lacinia quam non rhoncus. Donec volutpat placerat diam quis auctor. Quisque suscipit leo eget augue eleifend accumsan. Suspendisse id purus pulvinar, faucibus lectus at, laoreet lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eget ex eu nisl maximus sagittis. Morbi nibh lacus, tempus sed dapibus ac, auctor sit amet mi. Donec id scelerisque mi. Vestibulum eu viverra est, id pharetra lacus. Phasellus quis elit ac nisl imperdiet accumsan a in nisi. In feugiat, quam id rhoncus commodo, neque ex rutrum massa, sed ultricies nibh enim ac velit. Nulla pretium vel elit tristique ornare.</p>
             </div>
         </div>
-
         <div class="inner help-inner-row">
             <div class="help-header">
                 <div class="help-column help-header-icon">
                     <i class="fas fa-lg fa-mobile-alt help-header-icon"></i>
                 </div>
-                <h2><?php echo __('OrangeHRM Open Source Mobile App - How to Configure URL and Login'); ?></h2>
+                <h2>¿Cómo solicito vacaciones?</h2>
             </div>
             <div class="box">
-                <p><?php echo __(
-                        'Upon opening the application, you will be required to configure the OrangeHRM instance that you wish to access via your mobile device.'
-                    ); ?></p>
-                <br>
-                <p><strong><?php echo __('Step 01:'); ?></strong> <?php echo __(
-                        'Enter the OrangeHRM instance URL.'
-                    ); ?>
-                </p>
-                <br>
-                <?php
-                if ($isHttps) {
-                    echo "<p>" . __("Your Instance URL is:") . " <a class='instance-link'>" . $url . "</a></p>";
-                } else {
-                    echo "<p class='instance-warning'><span class='warning instance-warning'>" . __(
-                            "OrangeHRM Opensource mobile app does not support your instance. Please contact your system administrator for more information."
-                        ) . "</span></p>";
-                }
-                ?>
-                <br>
-                <p>
-                    <img class="help-ss" alt='Select instance screen'
-                         src='<?php echo theme_path('images/mobile_select_instance.png') ?>'/>
-                </p>
-                <br>
-                <p><strong><?php echo __('Step 02:'); ?></strong> <?php echo __('Click Continue'); ?></p>
-                <br>
-                <p><?php echo __(
-                        'Once the URL is entered successfully, it will redirect to a page where the login information is requested.'
-                    ); ?></p>
-                <br>
-                <p><strong><?php echo __('Step 03:'); ?></strong> <?php echo __('LOGIN'); ?></p>
-                <br>
-                <p><?php echo __(
-                        'Ensure the OrangeHRM username and password credentials are entered correctly, and click LOGIN. You will be granted access to the system after successful validation of your username and password credentials.'
-                    ); ?></p>
-                <br>
-                <p>
-                    <img class="help-ss" alt='Login screen'
-                         src='<?php echo theme_path('images/mobile_login.png') ?>'/>
-                </p>
-                <br>
-                <p><?php echo __(
-                        'Directly below the login fields, the URL of the system you are connecting to will be displayed so that you can verify the URL specified is accurate. '
-                    ); ?></p>
+                <p>Texto/imagen/video explicativo...</p>
+                <p>Curabitur id ante mi. Phasellus vel lorem tempor, scelerisque lorem id, semper quam. Pellentesque elementum sodales enim, non porttitor sem luctus at. In hac habitasse platea dictumst. Phasellus a cursus augue, cursus malesuada libero. Nullam in dui sollicitudin, ornare risus eget, aliquam nisi. Nulla consectetur dolor eu gravida egestas. Duis egestas ligula eu nisl dapibus, vitae consectetur magna pellentesque. Quisque dapibus et sem vel lobortis. Nunc non imperdiet magna.</p>
+            </div>
+        </div>
+        <div class="inner help-inner-row">
+            <div class="help-header">
+                <div class="help-column help-header-icon">
+                    <i class="fas fa-lg fa-mobile-alt help-header-icon"></i>
+                </div>
+                <h2>Otro tema de ayuda...</h2>
+            </div>
+            <div class="box">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non ante non dui efficitur mattis vel ut mauris. In hac habitasse platea dictumst. Sed massa odio, commodo a malesuada molestie, ultrices at felis. Ut odio enim, molestie gravida massa eget, sagittis tempus augue. Integer non arcu est. Quisque vehicula purus et purus volutpat, sit amet convallis turpis ullamcorper. Donec vitae sagittis tortor..</p>
             </div>
         </div>
     </div>
