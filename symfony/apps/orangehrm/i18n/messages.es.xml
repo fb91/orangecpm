@@ -4626,11 +4626,11 @@
       </trans-unit>
       <trans-unit id="1156">
         <source>Employee Trackers</source>
-        <target>Buscadores de Trabajadores</target>
+        <target>Evaluadores de trabajadores</target>
       </trans-unit>
       <trans-unit id="1157">
         <source>My Trackers</source>
-        <target>Mis Búsquedas</target>
+        <target>Mi Seguimiento</target>
       </trans-unit>
       <trans-unit id="1158">
         <source>Export to CSV</source>
@@ -4638,11 +4638,11 @@
       </trans-unit>
       <trans-unit id="1159">
         <source>Performance Trackers</source>
-        <target>Rastreadores de desempeño</target>
+        <target>Seguimiento de desempeño</target>
       </trans-unit>
       <trans-unit id="1160">
         <source>Manage Performance Tracker Log</source>
-        <target>Administra los registros del buscador de desempeño</target>
+        <target>Administra los registros del seguimiento de desempeño</target>
       </trans-unit>
       <trans-unit id="1161">
         <source>log</source>
@@ -4650,7 +4650,7 @@
       </trans-unit>
       <trans-unit id="1162">
         <source>status</source>
-        <target>Estatus</target>
+        <target>Estado</target>
       </trans-unit>
       <trans-unit id="1163">
         <source>available Reviewers</source>
@@ -4722,15 +4722,15 @@
       </trans-unit>
       <trans-unit id="1180">
         <source>My Performance Trackers List</source>
-        <target>Mi lista de búsqueda de Desempeño</target>
+        <target>Mi lista de seguimiento de desempeño</target>
       </trans-unit>
       <trans-unit id="1181">
         <source>Tracker</source>
-        <target/>
+        <target>Seguimiento</target>
       </trans-unit>
       <trans-unit id="1182">
         <source>Tracker Name</source>
-        <target>Nombre de Búsqueda</target>
+        <target>Nombre de evaluador</target>
       </trans-unit>
       <trans-unit id="1183">
         <source>Activities</source>
