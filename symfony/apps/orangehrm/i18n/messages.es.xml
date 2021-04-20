@@ -4626,7 +4626,7 @@
       </trans-unit>
       <trans-unit id="1156">
         <source>Employee Trackers</source>
-        <target>Evaluadores de trabajadores</target>
+        <target>Lista de seguimientos</target>
       </trans-unit>
       <trans-unit id="1157">
         <source>My Trackers</source>
@@ -6766,7 +6766,7 @@
       </trans-unit>
       <trans-unit id="1691">
         <source>Review List</source>
-        <target>Revisar Lista</target>
+        <target>Lista de revisiones</target>
       </trans-unit>
       <trans-unit id="1692">
         <source>Should be a positive integer</source>
