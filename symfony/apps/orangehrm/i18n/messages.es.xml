@@ -4534,11 +4534,11 @@
       </trans-unit>
       <trans-unit id="1133">
         <source>Leave Entitlements and Usage Report</source>
-        <target>Permisos y reportes de ausencias</target>
+        <target>Reporte de licencias</target>
       </trans-unit>
       <trans-unit id="1134">
         <source>My Leave Entitlements and Usage Report</source>
-        <target>Informe de mis licencias y permisos y los que ya se han utilizado</target>
+        <target>Mi reporte de licencias</target>
       </trans-unit>
       <trans-unit id="1135">
         <source>Matching Employees</source>
@@ -6590,7 +6590,7 @@
       </trans-unit>
       <trans-unit id="1647">
         <source>Leave Entitlements (Days)</source>
-        <target>Licencias pendientes (días)</target>
+        <target>Días asignados</target>
       </trans-unit>
       <trans-unit id="1648">
         <source>Current Leave Balance (Days)</source>
@@ -8058,7 +8058,7 @@
       </trans-unit>
       <trans-unit id="2014">
         <source>Leave Pending Approval (Days)</source>
-        <target>Licencias pendientes de aprobación (días)</target>
+        <target>Días pendientes de aprobación</target>
       </trans-unit>
       <trans-unit id="2015">
         <source>Existing Entitlement value %oldvalue% will be updated to %newvalue%</source>
