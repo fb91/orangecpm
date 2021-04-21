@@ -222,7 +222,7 @@
       </trans-unit>
       <trans-unit id="55">
         <source>Assign Leave</source>
-        <target>Asignar Permiso</target>
+        <target>Asignar Licencia</target>
       </trans-unit>
       <trans-unit id="56">
         <source>Assigned Salary Components</source>
@@ -1906,7 +1906,7 @@
       </trans-unit>
       <trans-unit id="476">
         <source>Leave Scheduled (Days)</source>
-        <target>Licencia/ Permiso programado (días)</target>
+        <target>Días programados</target>
       </trans-unit>
       <trans-unit id="477">
         <source>Leave Summary</source>
@@ -1914,7 +1914,7 @@
       </trans-unit>
       <trans-unit id="478">
         <source>Leave Taken (Days)</source>
-        <target>Permiso tomado (días)</target>
+        <target>Días tomados</target>
       </trans-unit>
       <trans-unit id="479">
         <source>Leave Types</source>
@@ -1974,23 +1974,23 @@
       </trans-unit>
       <trans-unit id="493">
         <source>License</source>
-        <target>Licencia</target>
+        <target>Matrícula</target>
       </trans-unit>
       <trans-unit id="494">
         <source>License Expiry Date</source>
-        <target>Fecha de caducidad de licencia</target>
+        <target>Fecha de caducidad de matrícula</target>
       </trans-unit>
       <trans-unit id="495">
         <source>License Number</source>
-        <target>Número de licencia</target>
+        <target>Número de matrícula</target>
       </trans-unit>
       <trans-unit id="496">
         <source>License Type</source>
-        <target>Tipo de licencia</target>
+        <target>Tipo de matrícula</target>
       </trans-unit>
       <trans-unit id="497">
         <source>Licenses</source>
-        <target>Licencias</target>
+        <target>Matrículas</target>
       </trans-unit>
       <trans-unit id="498">
         <source>Liechtenstein</source>
@@ -4214,7 +4214,7 @@
       </trans-unit>
       <trans-unit id="1053">
         <source>Add License</source>
-        <target>Agregar licencia</target>
+        <target>Agregar Matrícula</target>
       </trans-unit>
       <trans-unit id="1054">
         <source>Add Skill</source>
@@ -4262,7 +4262,7 @@
       </trans-unit>
       <trans-unit id="1065">
         <source>Edit License</source>
-        <target>Editar Licencia/Matrícula</target>
+        <target>Editar Matrícula</target>
       </trans-unit>
       <trans-unit id="1066">
         <source>Edit Skill</source>
@@ -4626,7 +4626,7 @@
       </trans-unit>
       <trans-unit id="1156">
         <source>Employee Trackers</source>
-        <target>Lista de seguimientos</target>
+        <target>Registrar seguimiento de trabajador</target>
       </trans-unit>
       <trans-unit id="1157">
         <source>My Trackers</source>
@@ -6446,7 +6446,7 @@
       </trans-unit>
       <trans-unit id="1611">
         <source>Leave Taken</source>
-        <target>Licencias/Permisos tomados</target>
+        <target>Licencias tomadas</target>
       </trans-unit>
       <trans-unit id="1612">
         <source>Leave Type</source>
@@ -6590,7 +6590,7 @@
       </trans-unit>
       <trans-unit id="1647">
         <source>Leave Entitlements (Days)</source>
-        <target>Autorización a Licencia (Días)</target>
+        <target>Licencias pendientes (días)</target>
       </trans-unit>
       <trans-unit id="1648">
         <source>Current Leave Balance (Days)</source>
@@ -6766,7 +6766,7 @@
       </trans-unit>
       <trans-unit id="1691">
         <source>Review List</source>
-        <target>Lista de revisiones</target>
+        <target>Evaluar trabajadores</target>
       </trans-unit>
       <trans-unit id="1692">
         <source>Should be a positive integer</source>
@@ -8058,7 +8058,7 @@
       </trans-unit>
       <trans-unit id="2014">
         <source>Leave Pending Approval (Days)</source>
-        <target/>
+        <target>Licencias pendientes de aprobación (días)</target>
       </trans-unit>
       <trans-unit id="2015">
         <source>Existing Entitlement value %oldvalue% will be updated to %newvalue%</source>
