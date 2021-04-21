@@ -4494,7 +4494,7 @@
       </trans-unit>
       <trans-unit id="1123">
         <source>Entitlement</source>
-        <target>Cargo</target>
+        <target>Días autorizados</target>
       </trans-unit>
       <trans-unit id="1124">
         <source>Matches one employee</source>
@@ -6590,7 +6590,7 @@
       </trans-unit>
       <trans-unit id="1647">
         <source>Leave Entitlements (Days)</source>
-        <target>Días asignados</target>
+        <target>Días autorizados</target>
       </trans-unit>
       <trans-unit id="1648">
         <source>Current Leave Balance (Days)</source>
