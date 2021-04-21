@@ -1906,7 +1906,7 @@
       </trans-unit>
       <trans-unit id="476">
         <source>Leave Scheduled (Days)</source>
-        <target>Días programados</target>
+        <target>Días agendados</target>
       </trans-unit>
       <trans-unit id="477">
         <source>Leave Summary</source>
@@ -7982,7 +7982,7 @@
       </trans-unit>
       <trans-unit id="1995">
         <source>Directory</source>
-        <target/>
+        <target>Directorio</target>
       </trans-unit>
       <trans-unit id="1996">
         <source>Search Listing</source>
@@ -7990,7 +7990,7 @@
       </trans-unit>
       <trans-unit id="1997">
         <source>Search Directory</source>
-        <target/>
+        <target>Buscar en el directorio</target>
       </trans-unit>
       <trans-unit id="1998">
         <source>Craft Workers</source>
