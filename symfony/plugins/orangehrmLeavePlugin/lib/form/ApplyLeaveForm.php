@@ -543,12 +543,12 @@ class ApplyLeaveForm extends sfForm {
      * @return array
      */
     protected function getFormWidgets() {
-        $partialDayChoices = array(
-            '' => __('None'), 
-            self::ALL_DAYS => __('All Days'), 
-            self::START_DAY_ONLY => __('Start Day Only'), 
-            self::END_DAY_ONLY => __('End Day Only'),
-            self::START_AND_END_DAY => __('Start and End Day'));
+        //$partialDayChoices = array(
+        //    '' => __('None'), 
+        //    self::ALL_DAYS => __('All Days'), 
+        //    self::START_DAY_ONLY => __('Start Day Only'), 
+        //    self::END_DAY_ONLY => __('End Day Only'),
+        //    self::START_AND_END_DAY => __('Start and End Day'));
         
         $widgets = array(
             'txtEmpID' => new sfWidgetFormInputHidden(),
@@ -558,7 +558,7 @@ class ApplyLeaveForm extends sfForm {
             'txtFromDate' => new ohrmWidgetDatePicker(array(), array('id' => 'applyleave_txtFromDate')),
             'txtToDate' => new ohrmWidgetDatePicker(array(), array('id' => 'applyleave_txtToDate')),
             'duration' => new ohrmWidgetFormLeaveDuration(),
-            'partialDays' => new sfWidgetFormChoice(array('choices' => $partialDayChoices)),
+            //'partialDays' => new sfWidgetFormChoice(array('choices' => $partialDayChoices)),
             'firstDuration' => new ohrmWidgetFormLeaveDuration(array('enable_full_day' => false)),
             'secondDuration' => new ohrmWidgetFormLeaveDuration(array('enable_full_day' => false)),
             'txtComment' => new sfWidgetFormTextarea(array(), array('rows' => '3', 'cols' => '30'))
@@ -583,7 +583,7 @@ class ApplyLeaveForm extends sfForm {
             'txtToDate' => new ohrmDateValidator(array('date_format' => $inputDatePattern, 'required' => true),
                     array('invalid' => 'Date format should be ' . $inputDatePattern)),
             'duration' => new sfValidatorPass(),
-            'partialDays' => new sfValidatorPass(),
+            //'partialDays' => new sfValidatorPass(),
             'firstDuration' => new sfValidatorPass(),
             'secondDuration' => new sfValidatorPass(),               
             'txtComment' => new sfValidatorString(array('required' => false, 'trim' => true, 'max_length' => 1000))
@@ -605,7 +605,7 @@ class ApplyLeaveForm extends sfForm {
             'txtFromDate' => __('From Date') . $requiredMarker,
             'txtToDate' => __('To Date') . $requiredMarker,
             'duration' => __('Duration'),
-            'partialDays' => __('Partial Days'),
+            //'partialDays' => __('Partial Days'),
             'firstDuration' => __('Duration'),
             'secondDuration' => __('Duration'),            
             'txtComment' => __('Comment'),
