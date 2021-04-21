@@ -3350,7 +3350,7 @@
       </trans-unit>
       <trans-unit id="837">
         <source>Status</source>
-        <target>Estatus</target>
+        <target>Estado</target>
       </trans-unit>
       <trans-unit id="838">
         <source>Structure</source>
@@ -6810,11 +6810,11 @@
       </trans-unit>
       <trans-unit id="1702">
         <source>Review Status</source>
-        <target>Estatus de evaluación</target>
+        <target>Estado de evaluación</target>
       </trans-unit>
       <trans-unit id="1703">
         <source>Evaluation Status</source>
-        <target>Estatus de Evaluación</target>
+        <target>Estado de Evaluación</target>
       </trans-unit>
       <trans-unit id="1704">
         <source>Edit Details</source>
@@ -7738,7 +7738,7 @@
       </trans-unit>
       <trans-unit id="1934">
         <source>Update Status</source>
-        <target>Actualizar estatus</target>
+        <target>Actualizar estado</target>
       </trans-unit>
       <trans-unit id="1935">
         <source>Upload Images</source>
