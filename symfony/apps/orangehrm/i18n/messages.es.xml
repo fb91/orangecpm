@@ -4622,7 +4622,7 @@
       </trans-unit>
       <trans-unit id="1155">
         <source>Trackers</source>
-        <target/>
+        <target>Seguimientos</target>
       </trans-unit>
       <trans-unit id="1156">
         <source>Employee Trackers</source>
@@ -4662,7 +4662,7 @@
       </trans-unit>
       <trans-unit id="1165">
         <source>Add Performance Tracker</source>
-        <target/>
+        <target>Añadir Seguimiento</target>
       </trans-unit>
       <trans-unit id="1166">
         <source>Performance Tracker Log Comment</source>
@@ -4730,7 +4730,7 @@
       </trans-unit>
       <trans-unit id="1182">
         <source>Tracker Name</source>
-        <target>Nombre de evaluador</target>
+        <target>Nombre del seguimiento</target>
       </trans-unit>
       <trans-unit id="1183">
         <source>Activities</source>
