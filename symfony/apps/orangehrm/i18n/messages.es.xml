@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="4">
         <source>Add Employee</source>
-        <target>Agregar Trabajador</target>
+        <target>Agregar Socio</target>
       </trans-unit>
       <trans-unit id="5">
         <source>Add KPI</source>
@@ -766,11 +766,11 @@
       </trans-unit>
       <trans-unit id="191">
         <source>Current and Past Employees</source>
-        <target>Trabajadores actuales y anteriores</target>
+        <target>Socioes actuales y anteriores</target>
       </trans-unit>
       <trans-unit id="192">
         <source>Current Employees Only</source>
-        <target>Sólo los trabajadores actuales</target>
+        <target>Sólo los socios actuales</target>
       </trans-unit>
       <trans-unit id="193">
         <source>Current Status</source>
@@ -1058,23 +1058,23 @@
       </trans-unit>
       <trans-unit id="264">
         <source>Employee</source>
-        <target>Trabajador</target>
+        <target>Socio</target>
       </trans-unit>
       <trans-unit id="265">
         <source>Employee First Name</source>
-        <target>Nombre del Trabajador</target>
+        <target>Nombre del Socio</target>
       </trans-unit>
       <trans-unit id="266">
         <source>Employee Id</source>
-        <target>Id del trabajador</target>
+        <target>Id del socio</target>
       </trans-unit>
       <trans-unit id="267">
         <source>Employee Last Name</source>
-        <target>Apellido del trabajador</target>
+        <target>Apellido del socio</target>
       </trans-unit>
       <trans-unit id="268">
         <source>Employee List</source>
-        <target>Lista de trabajadores</target>
+        <target>Lista de socios</target>
       </trans-unit>
       <trans-unit id="269">
         <source>Employee Middle Name</source>
@@ -1082,23 +1082,23 @@
       </trans-unit>
       <trans-unit id="270">
         <source>Employee Name</source>
-        <target>Nombre del Trabajador</target>
+        <target>Nombre del Socio</target>
       </trans-unit>
       <trans-unit id="271">
         <source>Employee Records</source>
-        <target>Registros de trabajadores</target>
+        <target>Registros de socios</target>
       </trans-unit>
       <trans-unit id="272">
         <source>Employee Reports</source>
-        <target>Reportes de trabajadores</target>
+        <target>Reportes de socios</target>
       </trans-unit>
       <trans-unit id="273">
         <source>Employee Timesheets</source>
-        <target>Hojas de asistencia de los trabajadores</target>
+        <target>Hojas de asistencia de los socios</target>
       </trans-unit>
       <trans-unit id="274">
         <source>Employment Status</source>
-        <target>Estado del Trabajador</target>
+        <target>Estado del Socio</target>
       </trans-unit>
       <trans-unit id="275">
         <source>Enabled</source>
@@ -1130,7 +1130,7 @@
       </trans-unit>
       <trans-unit id="282">
         <source>ESS</source>
-        <target>Autogestión del Trabajador</target>
+        <target>Autogestión del Socio</target>
       </trans-unit>
       <trans-unit id="283">
         <source>Estonia</source>
@@ -1570,7 +1570,7 @@
       </trans-unit>
       <trans-unit id="392">
         <source>Include Past Employees</source>
-        <target>Incluir a los trabajadores anteriores</target>
+        <target>Incluir a los socios anteriores</target>
       </trans-unit>
       <trans-unit id="393">
         <source>India</source>
@@ -1866,7 +1866,7 @@
       </trans-unit>
       <trans-unit id="466">
         <source>Last Name</source>
-        <target>Apellido del trabajador</target>
+        <target>Apellido del socio</target>
       </trans-unit>
       <trans-unit id="467">
         <source>Latvia</source>
@@ -2714,11 +2714,11 @@
       </trans-unit>
       <trans-unit id="678">
         <source>Past Employee</source>
-        <target>Trabajador anterior</target>
+        <target>Socio anterior</target>
       </trans-unit>
       <trans-unit id="679">
         <source>Past Employees Only</source>
-        <target>Trabajadores anteriores solamente</target>
+        <target>Socioes anteriores solamente</target>
       </trans-unit>
       <trans-unit id="680">
         <source>Pay Frequency</source>
@@ -2770,11 +2770,11 @@
       </trans-unit>
       <trans-unit id="692">
         <source>PIM</source>
-        <target>Trabajadores</target>
+        <target>Socioes</target>
       </trans-unit>
       <trans-unit id="693">
         <source>PIM Sample Report</source>
-        <target>Ejemplo de Reporte de Trabajadores</target>
+        <target>Ejemplo de Reporte de Socioes</target>
       </trans-unit>
       <trans-unit id="694">
         <source>Pitcairn</source>
@@ -3670,7 +3670,7 @@
       </trans-unit>
       <trans-unit id="917">
         <source>Type Employee Id</source>
-        <target>Tipo de identificación del trabajador</target>
+        <target>Tipo de identificación del socio</target>
       </trans-unit>
       <trans-unit id="918">
         <source>Type for hints</source>
@@ -3962,7 +3962,7 @@
       </trans-unit>
       <trans-unit id="990">
         <source>Select an Employee</source>
-        <target>Seleccione a un trabajador</target>
+        <target>Seleccione a un socio</target>
       </trans-unit>
       <trans-unit id="991">
         <source>Delete?</source>
@@ -3982,7 +3982,7 @@
       </trans-unit>
       <trans-unit id="995">
         <source>Invalid Employee</source>
-        <target>Trabajador no válido</target>
+        <target>Socio no válido</target>
       </trans-unit>
       <trans-unit id="996">
         <source>Accepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MB</source>
@@ -4006,7 +4006,7 @@
       </trans-unit>
       <trans-unit id="1001">
         <source>No Employees Available</source>
-        <target>No hay trabajadores disponibles</target>
+        <target>No hay socios disponibles</target>
       </trans-unit>
       <trans-unit id="1002">
         <source>Should have at least %number% characters</source>
@@ -4182,7 +4182,7 @@
       </trans-unit>
       <trans-unit id="1045">
         <source>Deleted Employee</source>
-        <target>Trabajador eliminado</target>
+        <target>Socio eliminado</target>
       </trans-unit>
       <trans-unit id="1046">
         <source>Total</source>
@@ -4298,7 +4298,7 @@
       </trans-unit>
       <trans-unit id="1074">
         <source>Invalid Employee Name</source>
-        <target>Nombre del trabajador no válido</target>
+        <target>Nombre del socio no válido</target>
       </trans-unit>
       <trans-unit id="1075">
         <source>Action</source>
@@ -4490,7 +4490,7 @@
       </trans-unit>
       <trans-unit id="1122">
         <source>Add to Multiple Employees</source>
-        <target>Agregar para múltiples trabajadores</target>
+        <target>Agregar para múltiples socios</target>
       </trans-unit>
       <trans-unit id="1123">
         <source>Entitlement</source>
@@ -4498,15 +4498,15 @@
       </trans-unit>
       <trans-unit id="1124">
         <source>Matches one employee</source>
-        <target>Coincide con un trabajador</target>
+        <target>Coincide con un socio</target>
       </trans-unit>
       <trans-unit id="1125">
         <source>Matches %count% employees</source>
-        <target>Coincide con %count% trabajadores</target>
+        <target>Coincide con %count% socios</target>
       </trans-unit>
       <trans-unit id="1126">
         <source>No matching employees</source>
-        <target>No coincide con ningún trabajador</target>
+        <target>No coincide con ningún socio</target>
       </trans-unit>
       <trans-unit id="1127">
         <source>Entitlements</source>
@@ -4518,7 +4518,7 @@
       </trans-unit>
       <trans-unit id="1129">
         <source>Employee Entitlements</source>
-        <target>Autorizaciones del Trabajador</target>
+        <target>Autorizaciones del Socio</target>
       </trans-unit>
       <trans-unit id="1130">
         <source>Valid From</source>
@@ -4530,7 +4530,7 @@
       </trans-unit>
       <trans-unit id="1132">
         <source>No employees match the selected filters</source>
-        <target>No coincide ningún trabajador con el filtro seleccionado</target>
+        <target>No coincide ningún socio con el filtro seleccionado</target>
       </trans-unit>
       <trans-unit id="1133">
         <source>Leave Entitlements and Usage Report</source>
@@ -4542,7 +4542,7 @@
       </trans-unit>
       <trans-unit id="1135">
         <source>Matching Employees</source>
-        <target>Trabajadores que coinciden</target>
+        <target>Socioes que coinciden</target>
       </trans-unit>
       <trans-unit id="1136">
         <source>Generate For</source>
@@ -4626,7 +4626,7 @@
       </trans-unit>
       <trans-unit id="1156">
         <source>Employee Trackers</source>
-        <target>Registrar seguimiento de trabajador</target>
+        <target>Registrar seguimiento de socio</target>
       </trans-unit>
       <trans-unit id="1157">
         <source>My Trackers</source>
@@ -4718,7 +4718,7 @@
       </trans-unit>
       <trans-unit id="1179">
         <source>Employee cannot be assigned as his own reviewer</source>
-        <target>El trabajador no puede ser asignado como su propio evaluador</target>
+        <target>El socio no puede ser asignado como su propio evaluador</target>
       </trans-unit>
       <trans-unit id="1180">
         <source>My Performance Trackers List</source>
@@ -4810,11 +4810,11 @@
       </trans-unit>
       <trans-unit id="1202">
         <source>Assigned Employees</source>
-        <target>Trabajadores asignados</target>
+        <target>Socioes asignados</target>
       </trans-unit>
       <trans-unit id="1203">
         <source>Available Employees</source>
-        <target>Trabajadores disponibles</target>
+        <target>Socioes disponibles</target>
       </trans-unit>
       <trans-unit id="1204">
         <source>Better</source>
@@ -5070,7 +5070,7 @@
       </trans-unit>
       <trans-unit id="1267">
         <source>Number of Employees</source>
-        <target>Número de trabajadores</target>
+        <target>Número de socios</target>
       </trans-unit>
       <trans-unit id="1268">
         <source>Organization Name</source>
@@ -5290,7 +5290,7 @@
       </trans-unit>
       <trans-unit id="1322">
         <source>Employee Distribution by Subunit</source>
-        <target>Distribución de trabajadores por Sub Unidad</target>
+        <target>Distribución de socios por Sub Unidad</target>
       </trans-unit>
       <trans-unit id="1323">
         <source>Not assigned to Subunits</source>
@@ -5374,11 +5374,11 @@
       </trans-unit>
       <trans-unit id="1343">
         <source>Employee name</source>
-        <target>Nombre del trabajador</target>
+        <target>Nombre del socio</target>
       </trans-unit>
       <trans-unit id="1344">
         <source>Employee Report</source>
-        <target>Reporte del Trabajador</target>
+        <target>Reporte del Socio</target>
       </trans-unit>
       <trans-unit id="1345">
         <source>Should Be Less Than 24 and in HH:MM or Decimal Format</source>
@@ -5386,7 +5386,7 @@
       </trans-unit>
       <trans-unit id="1346">
         <source>Enter Employee Name</source>
-        <target>Ingrese el nombre del trabajador</target>
+        <target>Ingrese el nombre del socio</target>
       </trans-unit>
       <trans-unit id="1347">
         <source>First Day of Week</source>
@@ -5450,7 +5450,7 @@
       </trans-unit>
       <trans-unit id="1362">
         <source>Select Employee</source>
-        <target>Seleccione Trabajador</target>
+        <target>Seleccione Socio</target>
       </trans-unit>
       <trans-unit id="1363">
         <source>Status:</source>
@@ -5550,7 +5550,7 @@
       </trans-unit>
       <trans-unit id="1387">
         <source>Activate Employment</source>
-        <target>Activar Trabajador</target>
+        <target>Activar Socio</target>
       </trans-unit>
       <trans-unit id="1388">
         <source>Add Custom Field</source>
@@ -5702,7 +5702,7 @@
       </trans-unit>
       <trans-unit id="1425">
         <source>Edit Employment Termination</source>
-        <target>Editar motivo de despido de trabajador</target>
+        <target>Editar motivo de despido de socio</target>
       </trans-unit>
       <trans-unit id="1426">
         <source>Edit Membership Detail</source>
@@ -5734,7 +5734,7 @@
       </trans-unit>
       <trans-unit id="1433">
         <source>Employee Information</source>
-        <target>Información del trabajador</target>
+        <target>Información del socio</target>
       </trans-unit>
       <trans-unit id="1434">
         <source>Employment</source>
@@ -5958,7 +5958,7 @@
       </trans-unit>
       <trans-unit id="1489">
         <source>Unemployment State</source>
-        <target>Destrabajador / Estado de desempleo</target>
+        <target>Dessocio / Estado de desempleo</target>
       </trans-unit>
       <trans-unit id="1490">
         <source>User Name</source>
@@ -5994,11 +5994,11 @@
       </trans-unit>
       <trans-unit id="1498">
         <source>Failed To Save: Employee Id Exists</source>
-        <target>Error al Guardar: Id de trabajador ya existe</target>
+        <target>Error al Guardar: Id de socio ya existe</target>
       </trans-unit>
       <trans-unit id="1499">
         <source>Will be deleted from all employees</source>
-        <target>Se eliminará de todos los trabajadores</target>
+        <target>Se eliminará de todos los socios</target>
       </trans-unit>
       <trans-unit id="1500">
         <source>First (&amp; Middle) Name</source>
@@ -6018,11 +6018,11 @@
       </trans-unit>
       <trans-unit id="1504">
         <source>You do not have credentials to access PIM for employee %employee_name%</source>
-        <target>Usted no tiene acceso al perfil del trabajador %employee_name%</target>
+        <target>Usted no tiene acceso al perfil del socio %employee_name%</target>
       </trans-unit>
       <trans-unit id="1505">
         <source>Employee with Employee Number %emp_number% not found!</source>
-        <target>El usuario con el número de trabajador %emp_number% no ha sido encontrado</target>
+        <target>El usuario con el número de socio %emp_number% no ha sido encontrado</target>
       </trans-unit>
       <trans-unit id="1506">
         <source>Active</source>
@@ -6686,7 +6686,7 @@
       </trans-unit>
       <trans-unit id="1671">
         <source>Employee does not have sufficient leave balance for leave request.</source>
-        <target>El trabajador no tiene disponibilidad suficiente del permiso para solicitar.</target>
+        <target>El socio no tiene disponibilidad suficiente del permiso para solicitar.</target>
       </trans-unit>
       <trans-unit id="1672">
         <source>Click OK to confirm leave assignment.</source>
@@ -6766,7 +6766,7 @@
       </trans-unit>
       <trans-unit id="1691">
         <source>Review List</source>
-        <target>Evaluar trabajadores</target>
+        <target>Evaluar socios</target>
       </trans-unit>
       <trans-unit id="1692">
         <source>Should be a positive integer</source>
@@ -6918,7 +6918,7 @@
       </trans-unit>
       <trans-unit id="1729">
         <source>Evaluation by Employee</source>
-        <target>Evaluación por trabajador</target>
+        <target>Evaluación por socio</target>
       </trans-unit>
       <trans-unit id="1730">
         <source>Evaluation by HR Admin</source>
@@ -6966,7 +6966,7 @@
       </trans-unit>
       <trans-unit id="1741">
         <source>Employee Reviewer</source>
-        <target>Revisión de Trabajador</target>
+        <target>Revisión de Socio</target>
       </trans-unit>
       <trans-unit id="1742">
         <source>Key Performance Indicators for Job Title</source>
@@ -6994,7 +6994,7 @@
       </trans-unit>
       <trans-unit id="1748">
         <source>Employee cannot be a reviewer in another category</source>
-        <target>El trabajador no puede ser un evaluador en otra categoría</target>
+        <target>El socio no puede ser un evaluador en otra categoría</target>
       </trans-unit>
       <trans-unit id="1749">
         <source>Cannot add same person as a reviewer multiple times</source>
@@ -7054,7 +7054,7 @@
       </trans-unit>
       <trans-unit id="1763">
         <source>Cannot activate review for employees who doesn't have Job Title and/or Sub-Division</source>
-        <target>No se puede activar la revisión a un trabajador que no posea un título de trabajo y / o subdivisión</target>
+        <target>No se puede activar la revisión a un socio que no posea un título de trabajo y / o subdivisión</target>
       </trans-unit>
       <trans-unit id="1764">
         <source>The review will be made read-only after completion.</source>
@@ -7210,11 +7210,11 @@
       </trans-unit>
       <trans-unit id="1802">
         <source>Employee can change current time when punching in/out</source>
-        <target>El trabajador puede cambiar la hora cuando marca entrada/salida</target>
+        <target>El socio puede cambiar la hora cuando marca entrada/salida</target>
       </trans-unit>
       <trans-unit id="1803">
         <source>Employee can edit/delete own attendance records</source>
-        <target>El trabajador puede editar / borrar los registros propios de asistencia</target>
+        <target>El socio puede editar / borrar los registros propios de asistencia</target>
       </trans-unit>
       <trans-unit id="1804">
         <source>Supervisor can add/edit/delete attendance records of subordinates</source>
@@ -7370,7 +7370,7 @@
       </trans-unit>
       <trans-unit id="1842">
         <source>Employee does not exist</source>
-        <target>El trabajador no existe en la base de datos</target>
+        <target>El socio no existe en la base de datos</target>
       </trans-unit>
       <trans-unit id="1843">
         <source>Work Hours</source>
