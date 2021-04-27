@@ -766,7 +766,7 @@
       </trans-unit>
       <trans-unit id="191">
         <source>Current and Past Employees</source>
-        <target>Socioes actuales y anteriores</target>
+        <target>Socios actuales y anteriores</target>
       </trans-unit>
       <trans-unit id="192">
         <source>Current Employees Only</source>
@@ -2718,7 +2718,7 @@
       </trans-unit>
       <trans-unit id="679">
         <source>Past Employees Only</source>
-        <target>Socioes anteriores solamente</target>
+        <target>Socios anteriores solamente</target>
       </trans-unit>
       <trans-unit id="680">
         <source>Pay Frequency</source>
@@ -2770,11 +2770,11 @@
       </trans-unit>
       <trans-unit id="692">
         <source>PIM</source>
-        <target>Socioes</target>
+        <target>Socios</target>
       </trans-unit>
       <trans-unit id="693">
         <source>PIM Sample Report</source>
-        <target>Ejemplo de Reporte de Socioes</target>
+        <target>Ejemplo de Reporte de Socios</target>
       </trans-unit>
       <trans-unit id="694">
         <source>Pitcairn</source>
@@ -4542,7 +4542,7 @@
       </trans-unit>
       <trans-unit id="1135">
         <source>Matching Employees</source>
-        <target>Socioes que coinciden</target>
+        <target>Socios que coinciden</target>
       </trans-unit>
       <trans-unit id="1136">
         <source>Generate For</source>
@@ -4810,11 +4810,11 @@
       </trans-unit>
       <trans-unit id="1202">
         <source>Assigned Employees</source>
-        <target>Socioes asignados</target>
+        <target>Socios asignados</target>
       </trans-unit>
       <trans-unit id="1203">
         <source>Available Employees</source>
-        <target>Socioes disponibles</target>
+        <target>Socios disponibles</target>
       </trans-unit>
       <trans-unit id="1204">
         <source>Better</source>
