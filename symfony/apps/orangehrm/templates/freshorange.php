@@ -12,7 +12,7 @@ $subscribed = $sf_user->isSubscribed();
         <div id="wrapper">
 
             <div id="branding">
-                <a href="#" target="_blank"><img src="<?php echo public_path('../../logo.png');?>" width="250" height="90" alt="OrangeCPM"/></a>
+                <a href="#" target="_blank"><img src="<?php echo public_path('../../logo.png');?>" width="208" height="75" alt="OrangeCPM"/></a>
                 <a href="#" id="welcome" class="panelTrigger"><?php echo __("Welcome %username%", array("%username%" => $sf_user->getAttribute('auth.firstName'))); ?></a>
                 <?php include_component('buzz', 'viewNotification'); ?>
                 <?php include_component('help', 'viewHelp'); ?>
