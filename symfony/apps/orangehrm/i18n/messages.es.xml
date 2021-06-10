@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="4">
         <source>Add Employee</source>
-        <target>Agregar Socio</target>
+        <target>Añadir socio</target>
       </trans-unit>
       <trans-unit id="5">
         <source>Add KPI</source>
@@ -222,7 +222,7 @@
       </trans-unit>
       <trans-unit id="55">
         <source>Assign Leave</source>
-        <target>Asignar Licencia</target>
+        <target>Asignar licencia</target>
       </trans-unit>
       <trans-unit id="56">
         <source>Assigned Salary Components</source>
@@ -1066,11 +1066,11 @@
       </trans-unit>
       <trans-unit id="266">
         <source>Employee Id</source>
-        <target>Id del socio</target>
+        <target>Identificador del socio</target>
       </trans-unit>
       <trans-unit id="267">
         <source>Employee Last Name</source>
-        <target>Apellido del socio</target>
+        <target>Apellido</target>
       </trans-unit>
       <trans-unit id="268">
         <source>Employee List</source>
@@ -1098,7 +1098,7 @@
       </trans-unit>
       <trans-unit id="274">
         <source>Employment Status</source>
-        <target>Estado del Socio</target>
+        <target>Estado del socio</target>
       </trans-unit>
       <trans-unit id="275">
         <source>Enabled</source>
@@ -1726,7 +1726,7 @@
       </trans-unit>
       <trans-unit id="431">
         <source>Job Title</source>
-        <target>Título del Puesto</target>
+        <target>Título del puesto</target>
       </trans-unit>
       <trans-unit id="432">
         <source>Job Titles</source>
@@ -1866,7 +1866,7 @@
       </trans-unit>
       <trans-unit id="466">
         <source>Last Name</source>
-        <target>Apellido del socio</target>
+        <target>Apellido</target>
       </trans-unit>
       <trans-unit id="467">
         <source>Latvia</source>
@@ -1898,7 +1898,7 @@
       </trans-unit>
       <trans-unit id="474">
         <source>Leave List</source>
-        <target>Listado de licencias y permisos</target>
+        <target>Ver licencias de socios</target>
       </trans-unit>
       <trans-unit id="475">
         <source>Leave Period</source>
@@ -2338,7 +2338,7 @@
       </trans-unit>
       <trans-unit id="584">
         <source>My Leave</source>
-        <target>Mis Licencias</target>
+        <target>Mis licencias</target>
       </trans-unit>
       <trans-unit id="585">
         <source>My Records</source>
@@ -2910,7 +2910,7 @@
       </trans-unit>
       <trans-unit id="727">
         <source>Required field</source>
-        <target>Campo Requerido</target>
+        <target>Campo requerido</target>
       </trans-unit>
       <trans-unit id="728">
         <source>Reset</source>
@@ -3578,7 +3578,7 @@
       </trans-unit>
       <trans-unit id="894">
         <source>To</source>
-        <target>A</target>
+        <target>Hasta</target>
       </trans-unit>
       <trans-unit id="895">
         <source>to</source>
@@ -4486,11 +4486,11 @@
       </trans-unit>
       <trans-unit id="1121">
         <source>Add Leave Entitlement</source>
-        <target>Agregar título de Licencia</target>
+        <target>Otorgar autorizaciones</target>
       </trans-unit>
       <trans-unit id="1122">
         <source>Add to Multiple Employees</source>
-        <target>Agregar para múltiples socios</target>
+        <target>Múltiples socios</target>
       </trans-unit>
       <trans-unit id="1123">
         <source>Entitlement</source>
@@ -4514,11 +4514,11 @@
       </trans-unit>
       <trans-unit id="1128">
         <source>Add Entitlements</source>
-        <target>Agregar Autorizaciones</target>
+        <target>Otorgar autorizaciones</target>
       </trans-unit>
       <trans-unit id="1129">
         <source>Employee Entitlements</source>
-        <target>Autorizaciones del Socio</target>
+        <target>Ver autorizaciones otorgadas</target>
       </trans-unit>
       <trans-unit id="1130">
         <source>Valid From</source>
@@ -4558,7 +4558,7 @@
       </trans-unit>
       <trans-unit id="1139">
         <source>My Entitlements</source>
-        <target>Historial de asignaciones</target>
+        <target>Mis autorizaciones</target>
       </trans-unit>
       <trans-unit id="1140">
         <source>Should be a number with upto %count% decimal places</source>
@@ -4754,7 +4754,7 @@
       </trans-unit>
       <trans-unit id="1188">
         <source>Add Job Title</source>
-        <target>Añadir Título del Puesto</target>
+        <target>Añadir título del puesto</target>
       </trans-unit>
       <trans-unit id="1189">
         <source>Add Location</source>
@@ -5302,7 +5302,7 @@
       </trans-unit>
       <trans-unit id="1325">
         <source>Apply Leave</source>
-        <target>Solicitar Licencia/ Permiso</target>
+        <target>Solicitar Licencia</target>
       </trans-unit>
       <trans-unit id="1326">
         <source>My Timesheet</source>
@@ -5734,7 +5734,7 @@
       </trans-unit>
       <trans-unit id="1433">
         <source>Employee Information</source>
-        <target>Información del socio</target>
+        <target>Filtrar socios</target>
       </trans-unit>
       <trans-unit id="1434">
         <source>Employment</source>
@@ -6002,7 +6002,7 @@
       </trans-unit>
       <trans-unit id="1500">
         <source>First (&amp; Middle) Name</source>
-        <target>Primer (&amp; Middle) Nombre</target>
+        <target>Nombre</target>
       </trans-unit>
       <trans-unit id="1501">
         <source>Failed to Delete: At Least One Admin Should Exist</source>
@@ -6450,7 +6450,7 @@
       </trans-unit>
       <trans-unit id="1612">
         <source>Leave Type</source>
-        <target>Tipo de Licencia</target>
+        <target>Tipo de licencia</target>
       </trans-unit>
       <trans-unit id="1613">
         <source>Leave type will be undeleted</source>
@@ -6498,7 +6498,7 @@
       </trans-unit>
       <trans-unit id="1624">
         <source>Show Leave with Status</source>
-        <target>Mostrar Permiso con estado</target>
+        <target>Estado de licencia</target>
       </trans-unit>
       <trans-unit id="1625">
         <source>Taken</source>
@@ -6514,7 +6514,7 @@
       </trans-unit>
       <trans-unit id="1628">
         <source>To Date</source>
-        <target>Hasta (Fecha)</target>
+        <target>Hasta la fecha</target>
       </trans-unit>
       <trans-unit id="1629">
         <source>To Time</source>
@@ -6582,7 +6582,7 @@
       </trans-unit>
       <trans-unit id="1645">
         <source>Entitlement Type</source>
-        <target>Tipo de autorización</target>
+        <target>Operación</target>
       </trans-unit>
       <trans-unit id="1646">
         <source>Updating Entitlement</source>
@@ -6654,7 +6654,7 @@
       </trans-unit>
       <trans-unit id="1663">
         <source>My Leave Entitlements</source>
-        <target>Mis licencias/ permisos</target>
+        <target>Mis autorizaciones</target>
       </trans-unit>
       <trans-unit id="1664">
         <source>Leave Comments</source>
@@ -7378,7 +7378,7 @@
       </trans-unit>
       <trans-unit id="1844">
         <source>Leave Entitlements</source>
-        <target>Solicitud a permiso</target>
+        <target>Autorizaciones otorgadas</target>
       </trans-unit>
       <trans-unit id="1845">
         <source>Maintenance</source>
